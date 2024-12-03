@@ -34,7 +34,6 @@ class Stack:
 s1 = Stack()
 s1.push(50)
 s1.push(60)
-s1.push(70)
-print(s1.pop(), "poped")
+print(s1.pop())
 print(s1.display())
     
